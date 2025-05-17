@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Meli main poster" src="https://octodex.github.com/images/poptocat_v2.png" width="40%"/>
+    <img alt="GitHub Octocat poster" src="https://octodex.github.com/images/poptocat_v2.png" width="40%"/>
 </div>
 
 </br>
@@ -10,7 +10,7 @@
     </br></br>
     <span>This is not your usual high-stakes, production-level repository. Nope! This is our digital sandbox, a fun and safe place to <b>learn, explore, break things, fix them</b>, and giggle at Git conflicts together.</span>
     </br></br>
-    <span>Whether you're taking your first baby steps into the world of GitHub or you're here to babysit your teammates through their first pull request, this is the place! :shipit:</span>
+    <span>Whether you're taking your first baby steps into the world of GitHub or you're here to babysit your teammates through their first pull request, this is the place!</span>
 </div>
 
 </br></br>
@@ -33,7 +33,7 @@ _And yes, it sometimes turns into 6-hour geek parties._
 ## Purpose of this repo
 
 <div align="left">
-    <img alt="Meli main poster" src="https://octodex.github.com/images/baracktocat.jpg" width="20%"/>
+    <img alt="GitHub Octocat poster" src="https://octodex.github.com/images/baracktocat.jpg" width="20%"/>
 </div>
 
 </br>
@@ -41,22 +41,23 @@ _And yes, it sometimes turns into 6-hour geek parties._
 > "Tell me and I forget, show me and I remember, involve me and I commit -m 'initial commit'"
 
 This repository is like a GitHub playground, lovingly maintained to help learners get hands-on with collaboration tools.
+
 Think of it like a GitHub petting zoo. Touch everything. It's okay.
 
 ## Contributors of the Kindergarten
 
 These are our little Git-toddlers who played and contributed during the session
 
-| Avatar | Name | GitHub Profile |
+|  | Name | Profile |
 |--------|------|----------------|
-| <img src="https://github.com/dulanjayabhanu.png" width="50" /> | Dulanjaya Bhanu (Mentor) | [@dulanjayabhanu](https://github.com/dulanjayabhanu) |
+| <img src="https://github.com/dulanjayabhanu.png" width="50" /> | :octocat: Dulanjaya Bhanu (Mentor) | [@dulanjayabhanu](https://github.com/dulanjayabhanu) |
 | <img src="https://github.com/dilansachcha.png" width="50" /> | Dilan Sachintha | [@dilansachcha](https://github.com/dilansachcha) |
 | <img src="https://github.com/Chamikabulathsinhala.png" width="50" /> | Chamika Bulathsinhala | [@Chamikabulathsinhala](https://github.com/Chamikabulathsinhala) |
 
 ## Stay tuned!
 
 <div align="left">
-    <img alt="Meli main poster" src="https://octodex.github.com/images/jetpacktocat.png" width="200px"/>
+    <img alt="GitHub Octocat poster" src="https://octodex.github.com/images/jetpacktocat.png" width="200px"/>
 </div>
 
 _Want to be on this list? Come join our next GitHub Kindergarten session!_
